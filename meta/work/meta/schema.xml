@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema dbmsId="postgres_id">
+    <column comment="" default="" key="false" label="id" length="1"
+        nullable="true" originalDbColumnName="id" originalLength="0"
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0"
+        talendType="id_Integer" type="INT4"/>
+    <column comment="" default="" key="false" label="name" length="7"
+        nullable="true" originalDbColumnName="name" originalLength="0"
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0"
+        talendType="id_String" type="VARCHAR"/>
+    <column comment="" default="" key="false" label="gender" length="2"
+        nullable="true" originalDbColumnName="gender" originalLength="0"
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0"
+        talendType="id_Character" type="CHAR"/>
+</schema>
