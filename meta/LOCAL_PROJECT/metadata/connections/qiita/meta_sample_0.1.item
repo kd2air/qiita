@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="__r0coGJrEembMPab45pMLw" name="meta_sample" id="_2231MGJrEembMPab45pMLw" label="meta_sample" dataPackage="__tAvcGJrEembMPab45pMLw" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://localhost:5432/qiitadb" dbVersionString="V9_X" Port="5432" Username="koda" Password="eY7DlhejJAo=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="qiitadb" SqlSynthax="" StringQuote="" NullChar="" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="__r0coWJrEembMPab45pMLw" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="__r9mkGJrEembMPab45pMLw" tag="package filter" value=""/>
+    <taggedValue xmi:id="__r9mkWJrEembMPab45pMLw" tag="Status" value=""/>
+    <taggedValue xmi:id="__r9mkmJrEembMPab45pMLw" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="__r9mk2JrEembMPab45pMLw" tag="Purpose" value=""/>
+    <taggedValue xmi:id="__r9mlGJrEembMPab45pMLw" tag="Description" value=""/>
+    <taggedValue xmi:id="__r9mlWJrEembMPab45pMLw" tag="Author" value=""/>
+    <taggedValue xmi:id="__r9mlmJrEembMPab45pMLw" tag="otherParameter"/>
+    <taggedValue xmi:id="__skDgGJrEembMPab45pMLw" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="__skDgWJrEembMPab45pMLw" tag="DB ProductVersion" value="9.6.10"/>
+    <taggedValue xmi:id="__skDgmJrEembMPab45pMLw" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="__r0comJrEembMPab45pMLw" key="CONN_PARA_KEY_USERNAME" value="koda"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="__tAvcGJrEembMPab45pMLw" name="qiitadb" dataManager="__r0coGJrEembMPab45pMLw">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="__tAvcWJrEembMPab45pMLw" name="information_schema"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="__tAvcmJrEembMPab45pMLw" name="pg_catalog"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="__tAvc2JrEembMPab45pMLw" name="public"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
