@@ -1,0 +1,27 @@
+debug funcX start
+debug reccnt 100
+debug funcX error
+--
+debug funcA start
+debug reccnt 10
+debug funcA success
+--
+debug funcA start
+debug reccnt 8
+debug funcA success
+--
+debug funcA start
+debug reccnt 12
+debug funcA success
+--
+debug funcB start
+debug reccnt 10
+debug funcB success
+--
+debug funcB start
+debug reccnt 8
+debug funcB error
+--
+debug funcB start
+debug reccnt 12
+debug funcB success
