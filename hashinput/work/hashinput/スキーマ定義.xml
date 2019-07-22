@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+    <column comment="" default="" key="false" label="id" length="-1"
+        nullable="true" originalDbColumnName="id" originalLength="-1"
+        pattern="" precision="-1" talendType="id_Integer" type=""/>
+    <column comment="" default="" key="false" label="name" length="-1"
+        nullable="true" originalDbColumnName="name" originalLength="-1"
+        pattern="" precision="-1" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="gender" length="-1"
+        nullable="true" originalDbColumnName="gender"
+        originalLength="-1" pattern="" precision="-1"
+        talendType="id_String" type=""/>
+</schema>
